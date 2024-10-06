@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "dataWrangler.experiments.useJupyterProposedAPI": true,
+    "jupyter.exportWithOutputEnabled": true,
+    "notebook.defaultFormatter": "ms-python.black-formatter",
+    "ipynb.experimental.serialization": true,
+    "dataWrangler.startInEditModeForNotebookEntrypoints": true,
+    "terminal.integrated.cwd": "",
+}
