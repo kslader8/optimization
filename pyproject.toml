@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "small optimization library project tests"
 authors = ["Kevin Slader"]
 readme = "readme.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
